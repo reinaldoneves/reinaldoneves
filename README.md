@@ -15,7 +15,7 @@
     elementary part of daily work, with people and knowledge as the raw material of the professional routine, essential softskilss for teamwork.
 
 - 💞️ I’m looking to collaborate on ...
-    I believe it is through collaborative technologies that a society can develop, in order to optimize processes and develop new solutions,
+    I believe it is through collaborative technologies that a society can grow, in order to optimize processes and develop new solutions,
     in a holistic way, socially engaged and aligned with sustainable development.
     I'm looking for work partnes and clients who believe in the same values, looking for build a better society;
     
