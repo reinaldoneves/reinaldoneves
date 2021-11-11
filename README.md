@@ -1,16 +1,16 @@
 - 👋 Hi, I’m @reinaldoneves
 
 - 👀 I’m interested in 
-    I'm seeking oportunities to update my knowledge and get back into the technology market
-    after the professional and personal experience gained over two graduations.
+    I'm seeking to oportunities to update my knowledge and get me back into the technology information industry
+    after the professional and personal experience gained over two graduations in the last years.
     
 - 🌱 My history and experience ...
     I have experience in web development, Java and C# technologies and also as a teacher.
     I also carried out large projects in the gas and energy area for CSC clients, now DXC.
     Graduated in Systems Analysis by Fatec (2016), and in Licentiate and Music by State University of Londrina (2021)
     I have experience in OOP, Java, MVC, C#, Git, Nuget, SQL, Scrum, Html, css,
-    javascript, Web Services Rest and Restfull, having worked on web, desktop, and mobile projects
-    during academic and professional experience.
+    javascript, Microservices, Springboot, JUnit, Maven and others, having worked on web, desktop, and mobile projects
+    along the academic and professional experience.
     As a teacher, I also bring expertise from a career in which it is necessary to understand human development as
     elementary part of daily work, with people and knowledge as the raw material of the professional routine, essential softskilss for teamwork.
 
