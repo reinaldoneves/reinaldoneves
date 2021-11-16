@@ -8,7 +8,7 @@
     I like to read and write codes. Sometimes they are musical and sometimes computational.
     I have experience in web development, Java and C# technologies and as a teacher as well. I have experience by working in large projects at gas and energy           industry for CSC clients, now DXC, and more recently in financial solutions projects at Accurate software.
     With a degree in Systems Analysis from Fatec(2016), and a degree in Music from the State University of Londrina (2021), I believe that it is through                 collaborative technologies that society can develop in order to optimize processes and develop new solutions, in a holistic way, socially engaged and aligned       with sustainable development.
-    I have experience in OOP, Java, MVC, C#, Git, Nuget, SQL, Scrum, html, css, javascript, Web Services
+    I have experience in Java, Spring framwork, Maven, MVC, C#, Git, Nuget, SQL, Scrum, html, css, javascript, Web Services
     Rest and Restfull, having worked on web, desktop, and mobile projects during between academic and professional experience.
     As a teacher, I also bring the expertise of a career in which it is necessary to understand human development as an elementary part of daily work, with people       and knowledge as the raw material of professional routine, essential softskills for teamwork and for people oriented solutions.
 
