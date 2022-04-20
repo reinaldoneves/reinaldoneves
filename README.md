@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @reinaldoneves
+- This is my json full resume
+    https://github.com/reinaldoneves/resume/blob/4bbc9e3de9cb4060c3d20b929f1bce15dd483d73/devResumeReinaldoNevesDosSantos.json
 
 - 👀 I’m interested in 
     I'm seeking to oportunities to update my knowledge and get me back into the technology information industry
