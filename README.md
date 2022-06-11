@@ -20,7 +20,12 @@ As hardskills, I have experience in Java Spring Framework, Maven, MVC, Microserv
     I'm looking for work partnes and clients who believe in the same values, looking for build a better society;
     
     <!--START_SECTION:waka-->
-    <!--END_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
     
     <figure><embed src="https://wakatime.com/share/@ee888c9b-4b3d-4382-9df5-26f65490f1bd/98fd2b66-4298-4694-86b5-26526a1e123b.svg"></embed></figure>
     
