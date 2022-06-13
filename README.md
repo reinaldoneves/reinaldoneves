@@ -30,13 +30,9 @@ Java   0 secs          ██░░░░░░░░░░░░░░░░░
     
     
     
-- 📫 How to reach me ...
-<p align="center">
- <a href="https://web.whatsapp.com/send?phone=5543996383899">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/512px-WhatsApp.svg" width="32" height="32" alt="accessibility text">
-</p>
-    
+- 📫 How to reach me ..
     reinaldo_neves@hotmail.com
+    https://web.whatsapp.com/send?phone=5543996383899
 
 <!---
 reinaldoneves/reinaldoneves is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
