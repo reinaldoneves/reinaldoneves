@@ -19,18 +19,19 @@ As hardskills, I have experience in Java Spring Framework, Maven, MVC, Microserv
     in a holistic way, socially engaged and aligned with sustainable development.
     I'm looking for work partnes and clients who believe in the same values, looking for build a better society;
     
-    <!--START_SECTION:waka-->
+<!--START_SECTION:waka-->
 
 ```text
 YAML   4 mins          ███████████████████████░░   91.93 %
 Java   0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
 ```
-
+<figure><embed src="https://wakatime.com/share/@ee888c9b-4b3d-4382-9df5-26f65490f1bd/98fd2b66-4298-4694-86b5-26526a1e123b.svg"></embed></figure>
 <!--END_SECTION:waka-->
     
-    <figure><embed src="https://wakatime.com/share/@ee888c9b-4b3d-4382-9df5-26f65490f1bd/98fd2b66-4298-4694-86b5-26526a1e123b.svg"></embed></figure>
+    
     
 - 📫 How to reach me ...
+- ![Isso é uma imagem](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/512px-WhatsApp.svg.png)
     https://web.whatsapp.com/send?phone=5543996383899
     reinaldo_neves@hotmail.com
 
