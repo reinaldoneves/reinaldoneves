@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @reinaldoneves
-- This is my json full resume
-<a href="https://github.com/reinaldoneves/resume/blob/4bbc9e3de9cb4060c3d20b929f1bce15dd483d73/devResumeReinaldoNevesDosSantos.json" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="java" width="40" height="40"/></a>
-</p>
+- This is my json full resume: 
+<a href="https://github.com/reinaldoneves/resume/blob/4bbc9e3de9cb4060c3d20b929f1bce15dd483d73/devResumeReinaldoNevesDosSantos.json" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/134651/resume.svg" alt="java" width="40" height="40"/></a>
     
-    
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">My main languages and tools:</h3>
 <p align="left"> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
@@ -42,11 +40,9 @@ XML              7 mins          ▒░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
     
-    
-    
 - 📫 How to reach me ..
-    reinaldo_neves@hotmail.com
-    https://web.whatsapp.com/send?phone=5543996383899
+<a href="mailto:reinaldo_neves@hotmail.com" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/17588/mail.svg" alt="java" width="40" height="40"/></a>
+<a href="https://web.whatsapp.com/send?phone=5543996383899" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/333625/whatsapp.svg" alt="java" width="40" height="40"/></a>
 
 <!---
 reinaldoneves/reinaldoneves is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
