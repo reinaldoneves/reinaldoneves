@@ -34,12 +34,12 @@ As hardskills, I have experience in Java Spring Framework, Maven, MVC, Microserv
 <!--START_SECTION:waka-->
 
 ```text
-Java             10 hrs          ████████████████████████░   95.83 %
-JSON             9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
-Markdown         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
-PlantUML file    5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
-Properties       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Java             7 hrs 25 mins   ███████████████████████░░   92.26 %
+JSON             9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+Properties       7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+XML              6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+PlantUML file    5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+YAML             4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 ```
 
 <!--END_SECTION:waka-->
