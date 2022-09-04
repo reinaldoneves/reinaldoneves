@@ -34,12 +34,12 @@ As hardskills, I have experience in Java Spring Framework, Maven, MVC, Microserv
 <!--START_SECTION:waka-->
 
 ```text
-Java             6 hrs 18 mins   ██████████████████░░░░░░░   72.40 %
-XML              1 hr 16 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.57 %
-Properties       51 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
-GitIgnore file   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
-Gherkin          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
-YAML             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Java             4 hrs 13 mins   ██████████████████▓░░░░░░   74.91 %
+Properties       42 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.51 %
+XML              28 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 %
+GitIgnore file   11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
+Gherkin          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+textmate         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
