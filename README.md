@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @reinaldoneves
 - This is my json full resume: 
-<a href="https://github.com/reinaldoneves/resume/blob/4bbc9e3de9cb4060c3d20b929f1bce15dd483d73/devResumeReinaldoNevesDosSantos.json" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/134651/resume.svg" alt="java" width="40" height="40"/></a>
+<a href="https://github.com/reinaldoneves/resume/blob/main/devResumeReinaldoNevesDosSantos.json" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/134651/resume.svg" alt="java" width="40" height="40"/></a>
     
 <h3 align="left">My main languages and tools:</h3>
 <p align="left"> 
