@@ -15,16 +15,20 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="java" width="40" height="40"/></a>
     
 - 👀 I’m interested in 
-    I'm seeking to oportunities to update my knowledge and get me back into the technology information industry
-    after the professional and personal experience gained over two graduations in the last years.
+    I'm seeking to oportunities to with more porpouse than only make money as fast as we can.
     
     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reinaldoneves&show_icons=true&theme=radical)
     
 - 🌱 My history and experience ...
-    My experience envolves development solutions in diferent plataforms and dimensions, most using Java, but also a little bit of C#. 
-I have experience by working in large projects at gas and energy industry for CSC clients, now DXC, and more recently in financial solutions projects at Accurate software. I'm gradueted in System Analysis at Fatec(2016), and a degree in Music at State University of Londrina(2021). I really believe that it is only through collaborative thinking and open knowledges and technologies that society can truly evolve and inovate, in order to optimize processes and create new solutions in a holistic way, socially engaged and aligned with sustainable development.
-I really would like to work with partners, clients, and people with the same values and purpose.
-As hardskills, I have experience in Java Spring Framework, Maven, MVC, Microservices archtecture, C#, Git, Nuget, SQL, Scrum, Html, CSS, basic Javascript, Web Services, Rest, and API building, having worked on web, desktop, and mobile projects along my academic and professional journey. As a teacher, I also bring the expertise of a career in which it is necessary to understand human development as an elementary part of daily work, with people and knowledge as the raw material of professional routine, essential softskills for teamwork and for people oriented solutions.
+    I've been programming in Java since 2012 because I wanted to make cell phone games. I never imagined that it would become one of the most used languages in the world.
+  I have experience working on large projects for English, American, Brazilian and French companies with more than 20,000 employees across several countries, with ecosystems for robust systems with thousands of accesses per second.
+  I have a degree in Systems Analysis from Fatec (2016), and a degree in Music from the State University of Londrina (2021) and a ongoing master's degree in education.
+  I truly believe that only through collaborative thinking and open knowledge and technologies can society truly evolve and innovate, in order to optimize processes and create new solutions in a holistic,
+   socially engaged way and aligned with sustainable development and I would really like to work with partners, customers and people with the same values and purposes.
+  As hardskills, I have experience in Java Spring Framework, Maven, MVC, microservices architecture, C#, Git, SQL, NoSql, MongoDB, Spring Reactive, Spring Security, OAuth2, Swagger, Scrum, Web Services, Rest and building APIs,
+   having worked on web, desktop and mobile projects throughout my academic and professional journey.
+  As a teacher, I also bring the expertise of a career in which it is necessary to understand human development as an elementary part of daily work, with people and knowledge as the raw material of the professional routine,
+   essential softskills for teamwork and oriented solutions For people.
 
 - 💞️ I’m looking to collaborate on ...
     I believe it is through collaborative technologies that a society can grow, in order to optimize processes and develop new solutions,
