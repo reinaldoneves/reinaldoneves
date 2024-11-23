@@ -38,11 +38,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java              2 hrs 6 mins    █████████████▓░░░░░░░░░░░   54.35 %
-XML               1 hr 39 mins    ██████████▓░░░░░░░░░░░░░░   42.94 %
-GitIgnore file    3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-Properties        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-JavaScript        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Java              3 hrs 3 mins    ██████████████▓░░░░░░░░░░   58.52 %
+XML               2 hrs 3 mins    ██████████░░░░░░░░░░░░░░░   39.47 %
+GitIgnore file    3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+Properties        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+JavaScript        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
