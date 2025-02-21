@@ -14,7 +14,7 @@
 - **Email:** reinaldo_reves@hotmail.com  
 - **GitHub:** [github.com/reinaldoneves](https://github.com/reinaldoneves)  
 - **LinkedIn:** [linkedin.com/in/reinaldonevess](https://www.linkedin.com/in/reinaldonevess)  
-- **Address:** Jorge Velho, 814 - Londrina - PR, Brasil  
+- **Address:** Londrina - PR, Brasil  
 
 ---
 <h3 align="left">My main languages and tools:</h3>
